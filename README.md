@@ -18,21 +18,21 @@ This is a public showcase repository. The full source code is private because th
 
 ---
 
-## Overview
-
-SLYRX07 Visualizer is a desktop application designed for creators who want to build music visualizer scenes with editable backgrounds, text, character/image layers, audio-reactive effects, and timeline-based preview behavior.
-
-The project combines frontend UI engineering, desktop application development, audio analysis, animation systems, and export-oriented rendering workflows.
-
----
-
----
-
 ## Demo
 
 ![SLYRX07 Visualizer Demo](assets/demo.gif)
 
 The demo shows the visualizer interface, animated preview behavior, layer controls, waveform timeline, and audio-reactive visual workflow.
+
+---
+
+---
+
+## Overview
+
+SLYRX07 Visualizer is a desktop application designed for creators who want to build music visualizer scenes with editable backgrounds, text, character/image layers, audio-reactive effects, and timeline-based preview behavior.
+
+The project combines frontend UI engineering, desktop application development, audio analysis, animation systems, and export-oriented rendering workflows.
 
 ---
 
