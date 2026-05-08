@@ -26,6 +26,16 @@ The project combines frontend UI engineering, desktop application development, a
 
 ---
 
+---
+
+## Demo
+
+![SLYRX07 Visualizer Demo](assets/demo.gif)
+
+The demo shows the visualizer interface, animated preview behavior, layer controls, waveform timeline, and audio-reactive visual workflow.
+
+---
+
 ## Screenshots
 
 ### Main Editor
@@ -51,15 +61,6 @@ The waveform timeline displays audio playback progress and kick markers used for
 ![Kick Detector](assets/screenshot-kick-detector.png)
 
 The kick detector panel provides marker status, manual marker controls, timeline marker visibility, and reset/re-analysis workflows.
----
-
-## Demo
-
-![SLYRX07 Visualizer Demo](assets/demo.gif)
-
-The demo shows the visualizer interface, animated preview behavior, layer controls, waveform timeline, and audio-reactive visual workflow.
-
----
 
 ## Key Features
 
