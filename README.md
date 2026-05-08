@@ -55,9 +55,9 @@ The kick detector panel provides marker status, manual marker controls, timeline
 
 ## Demo
 
-A short demo video can be added here:
+[Watch the demo video](assets/demo.mp4)
 
-[Demo Video](assets/demo.mp4)
+The demo shows the visualizer interface, animated preview behavior, layer controls, waveform timeline, and audio-reactive visual workflow.
 
 ---
 
