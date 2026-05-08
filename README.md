@@ -30,16 +30,27 @@ The project combines frontend UI engineering, desktop application development, a
 
 ### Main Editor
 
-![Main Editor](assets/screenshot-main-editor.png)
+![Main Editor](assets/screenshot-waveform-timeline.png)
 
-### Layer Controls
+The main editor combines the visual preview, audio timeline, playback controls, and selected wave effect settings in one desktop interface.
 
-![Layer Controls](assets/screenshot-layer-controls.png)
+### Start Screen & Layer Workflow
 
-### Waveform Timeline
+![Start Screen](assets/screenshot-main-editor.png)
 
-![Waveform Timeline](assets/screenshot-waveform-timeline.png)
+The start screen shows the layer-based editor layout, project controls, background setup, and clean desktop application interface.
 
+### Audio Timeline & Kick Markers
+
+![Waveform Timeline](assets/screenshot-waveform2-timeline.png)
+
+The waveform timeline displays audio playback progress and kick markers used for audio-reactive visual behavior.
+
+### Kick Detector Controls
+
+![Kick Detector](assets/screenshot-kick-detector.png)
+
+The kick detector panel provides marker status, manual marker controls, timeline marker visibility, and reset/re-analysis workflows.
 ---
 
 ## Demo
