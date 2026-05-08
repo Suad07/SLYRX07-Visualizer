@@ -55,7 +55,7 @@ The kick detector panel provides marker status, manual marker controls, timeline
 
 ## Demo
 
-[Watch the demo video](assets/demo.mp4)
+![SLYRX07 Visualizer Demo](assets/demo.gif)
 
 The demo shows the visualizer interface, animated preview behavior, layer controls, waveform timeline, and audio-reactive visual workflow.
 
